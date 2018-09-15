@@ -7,6 +7,7 @@
 <form name="FirstForm">
 	<input type="text" name="firstText" value="First Text" />
 	<input type="button" name="firstButton" value="First Button" />
+	<input type="checkbox" name="firstCheckBox" value="First CheckBox" />
 </form>
 
 
